@@ -1,6 +1,6 @@
 # 🎓 UTG_AI — University Timetable Generator (AI-Powered)
 
-An intelligent, constraint-aware university timetable scheduling system powered by AI algorithms. Designed to automate and optimize the complex task of generating conflict-free academic schedules for universities.
+An intelligent, constraint-aware university timetable scheduling system powered by AI algorithms, designed to automate and optimize the generation of efficient, conflict-free academic schedules.
 
 ---
 
